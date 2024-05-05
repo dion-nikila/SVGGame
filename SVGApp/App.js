@@ -127,11 +127,6 @@ const styles = StyleSheet.create({
   },
   gameOverContainer: {
     position: 'absolute', 
-    // top: 450,
-    // left: 160,
-    // transform: [{ translateX: -50 }, { translateY: -50 }],
-    // justifyContent: 'center',
-    // alignItems: 'center',
     backgroundColor: 'rgba(0, 0, 0, 0.7)',
     padding: 20,
     borderRadius: 10,
